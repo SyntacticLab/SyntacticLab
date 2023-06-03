@@ -34,5 +34,6 @@ Currently, I am actively working on enhancing my knowledge and skills in the fol
 In addition to my primary role as a .NET developer, I am always willing to contribute and adapt as per the team's needs. 
 I am comfortable wearing different hats, be it taking on the responsibilities of a database administrator or diving into DevOps tasks. 
 I believe in fostering a collaborative work environment where everyone can learn from each other and collectively deliver exceptional results.
+Focus, hardwork, and ... ooo what's that do!?!?
 
 Thank you for visiting my GitHub profile!
